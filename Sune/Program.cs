@@ -20,20 +20,6 @@ namespace Sune
 
             var tit = doc.Title;
             Console.WriteLine(tit);
-
-            // サンプル
-            //var idP = doc.GetElementById("id-p");
-            //Console.WriteLine("GetElementById : {0}", idP.TextContent);
-            //var classpList = doc.GetElementsByClassName("class-p");
-            //foreach (var c in classpList)
-            //{
-            //    Console.WriteLine("GetElementsByClassName [class-p] : {0}", c.TextContent);
-            //}
-            // var elements = doc.Body.QuerySelectorAll("p.class-p");
-            // foreach (var e in elements)
-            // {
-            //    Console.WriteLine("QuerySelectorAll [class-p] : {0}", e.TextContent);
-            // }
         }
     }
 }

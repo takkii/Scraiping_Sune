@@ -19,4 +19,6 @@ suneを実行すると上記URLをindex.htmlに書き出します。
 その後、タイトルを取得し表示します。
 ```
 
-MITライセンスです。
+> Piece of Ruby shop.
+
+#### MITライセンスです。
